@@ -17,4 +17,5 @@ This app generates possible email formats and verifies the best one using SMTP. 
 - Upload a CSV with First Name, Last Name, Domain.
 - Choose a mode: Fast (no verification) or Verify (uses SMTP).
 - Download the results.
-#_Built by [Your Name]. Praveen K
+  
+#_Built by Praveen K.
